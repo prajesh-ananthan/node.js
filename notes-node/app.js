@@ -12,6 +12,7 @@ const notes = require('./notes.js');
 // console.log(_.isString(true));
 // console.log(_.isString('Prajesh'));
 
+
 // Removes duplicates from array
 var filterArray = _.uniq(['prajesh', 1, 'prajesh', 2, 3, 4]);
 console.log(filterArray);
